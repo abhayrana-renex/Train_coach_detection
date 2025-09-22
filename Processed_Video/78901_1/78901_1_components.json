@@ -1,0 +1,39 @@
+{
+  "train_number": "78901",
+  "coach_number": 1,
+  "doors_open": 58,
+  "doors_closed": 2,
+  "engines": [
+    [
+      1582,
+      850,
+      441,
+      230
+    ]
+  ],
+  "wagons": [
+    [
+      1974,
+      971,
+      200,
+      80
+    ],
+    [
+      358,
+      0,
+      587,
+      1022
+    ],
+    [
+      1975,
+      971,
+      199,
+      88
+    ]
+  ],
+  "total_components": {
+    "doors": 60,
+    "engines": 1,
+    "wagons": 3
+  }
+}

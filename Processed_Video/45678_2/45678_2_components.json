@@ -1,0 +1,20 @@
+{
+  "train_number": "45678",
+  "coach_number": 2,
+  "doors_open": 43,
+  "doors_closed": 4,
+  "engines": [],
+  "wagons": [
+    [
+      984,
+      716,
+      107,
+      220
+    ]
+  ],
+  "total_components": {
+    "doors": 47,
+    "engines": 0,
+    "wagons": 1
+  }
+}
