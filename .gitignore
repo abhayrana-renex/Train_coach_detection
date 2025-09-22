@@ -1,0 +1,15 @@
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.zip
+*.tar
+*.gz
+__pycache__/
+.DS_Store
+.venv/
+.env
