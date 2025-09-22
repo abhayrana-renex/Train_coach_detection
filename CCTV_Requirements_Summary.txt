@@ -1,0 +1,35 @@
+
+CCTV RAILWAY STATION MONITORING SUMMARY
+=====================================
+
+Generated: Mon Sep 22 11:10:06 IST 2025
+
+PROCESSING RESULTS:
+- Total Trains Monitored: 3
+- Total Coaches Analyzed: 30
+- Total Doors Detected: 1051
+- Doors Open: 996
+- Doors Closed: 55
+
+PER-TRAIN BREAKDOWN:
+
+Train 78901:
+  - Coaches: 12
+  - Doors Open: 391
+  - Doors Closed: 8
+  - Wagons Detected: 3
+  - Status: ATTENTION REQUIRED
+
+Train 45678:
+  - Coaches: 12
+  - Doors Open: 404
+  - Doors Closed: 43
+  - Wagons Detected: 2
+  - Status: ATTENTION REQUIRED
+
+Train 12309:
+  - Coaches: 6
+  - Doors Open: 201
+  - Doors Closed: 4
+  - Wagons Detected: 26
+  - Status: ATTENTION REQUIRED
